@@ -1,0 +1,25 @@
+{
+  "name": "mi-primer-proyecto-de-node",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto de js con node en openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsancris/Practica-JS.git"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject",
+    "node"
+  ],
+  "author": "vsancris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsancris/Practica-JS/issues"
+  },
+  "homepage": "https://github.com/vsancris/Practica-JS#readme"
+}
